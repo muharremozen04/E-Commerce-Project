@@ -15,10 +15,7 @@ denetimi admin panel tarafından yönetilir. Hiçbir rol farklı
 bir rol yetkisine dahil olamaz ve sınırları içerisinde
 uygulamayı kullanabilir.
 
-KULLANILAN TEKNOLOJİLER:
-Java 8, Spring Boot, Maven,
-Spring JPA, Spring RestAPI, Mysql, Validation, Spring
-Security, ReactJS
+
 
 
 ## Languages, Technologies and Environments Used in this Project
