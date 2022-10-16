@@ -1,10 +1,22 @@
 # E-Commerce-Project-Spring
 
 
-**Spring Development Project**<br>
+**React – Spring – Eticaret Uygulaması**<br>
 
-- This project handles adding customer records to the database, deleting them with id, listing all users, listing by id.
-- Encryption with md5 encryption algorithm 
+Bir eticaret uygulaması backend ve frontend hizmeti
+sağlayan uygulama, admin panel ve kullanıcı taraflı
+siteden oluşmaktadır. Uygulama security yönetimi için
+JWT kullanmıştır. Uygulamada admin panelde girişi
+yapılan ürülerin ön yüzde kullanıcı login olduktan sonra
+satışı yapılmaktadır. Yapılan satışların takibi ve ürünlerin
+denetimi admin panel tarafından yönetilir. Hiçbir rol farklı
+bir rol yetkisine dahil olamaz ve sınırları içerisinde
+uygulamayı kullanabilir.
+
+KULLANILAN TEKNOLOJİLER: Java 8, Spring Boot, Maven,
+Spring JPA, Spring RestAPI, Mysql, Validation, Spring
+Security, ReactJS
+
 
 ## Languages, Technologies and Environments Used in this Project
 
