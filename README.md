@@ -3,17 +3,20 @@
 
 **React – Spring – Eticaret Uygulaması**<br>
 
-Bir eticaret uygulaması backend ve frontend hizmeti
-sağlayan uygulama, admin panel ve kullanıcı taraflı
-siteden oluşmaktadır. Uygulama security yönetimi için
-JWT kullanmıştır. Uygulamada admin panelde girişi
+Bir eticaret uygulaması backend ve frontend hizmeti sağlayan uygulama, admin panel ve kullanıcı taraflı
+siteden oluşmaktadır. 
+
+Uygulama security yönetimi için JWT kullanmıştır.
+
+Uygulamada admin panelde girişi
 yapılan ürülerin ön yüzde kullanıcı login olduktan sonra
 satışı yapılmaktadır. Yapılan satışların takibi ve ürünlerin
 denetimi admin panel tarafından yönetilir. Hiçbir rol farklı
 bir rol yetkisine dahil olamaz ve sınırları içerisinde
 uygulamayı kullanabilir.
 
-KULLANILAN TEKNOLOJİLER: Java 8, Spring Boot, Maven,
+KULLANILAN TEKNOLOJİLER:
+Java 8, Spring Boot, Maven,
 Spring JPA, Spring RestAPI, Mysql, Validation, Spring
 Security, ReactJS
 
@@ -33,18 +36,32 @@ Security, ReactJS
 
 ## Project Display Image!
 
-**lOGİN**<br>
+**LOGİN**<br>
 ![login](https://user-images.githubusercontent.com/60547236/196029881-0fd6f559-6faf-45d0-82eb-c0eaf857105b.png)
 
+**PRODUCT LİST:**<br>
+![productlst2](https://user-images.githubusercontent.com/60547236/196029973-794a6a1a-9f58-4a5d-ad79-0296a9d84874.png)
 
-**Output of deleteCustomerById Method:**<br>
-![deleteCustomerById](https://user-images.githubusercontent.com/60547236/188753364-c64ad9da-83a2-417c-9824-3bd85028098f.png)
-**Output of addCustomer Method:**<br>
-![addCustomer](https://user-images.githubusercontent.com/60547236/188753399-fffe7079-e729-464a-b90d-2594d7bf6645.png)
-**Output of getCustomerById Method:**<br>
-![getCustomerById](https://user-images.githubusercontent.com/60547236/188753434-0f46dabf-0a91-4244-abaf-80399c0ddff2.png)
+**PRODUCT DETAİL:**<br>
+![productdetail](https://user-images.githubusercontent.com/60547236/196030015-b4865d2b-ef07-491b-8e8a-ab863b219435.png)
+
+**PRODUCT SAVE**<br>
+![ProductSave](https://user-images.githubusercontent.com/60547236/196030062-85b39650-b6a7-4621-9aa5-192dd5d8ffab.png)
+
+**CATEGORY LİST**<br>
+![CategoryList](https://user-images.githubusercontent.com/60547236/196030093-359570ea-ed38-45f2-8435-62dbb1d15429.png)
+
+**PRODUCT İMAGE LİST**<br>
+![ProductİmageList](https://user-images.githubusercontent.com/60547236/196030118-99c2e8de-dd83-4e93-b970-9890f3876131.png)
+
+
+**LOGOUT**<br>
+![logout](https://user-images.githubusercontent.com/60547236/196030148-b7bfac88-7bcd-4fca-a985-d286c9eed1d3.png)
+
+
 **Database Table:**<br>
-![MySql](https://user-images.githubusercontent.com/60547236/189223901-826eeaeb-ce12-44ee-8d0d-21a3900e0cf6.png)
+![dB](https://user-images.githubusercontent.com/60547236/196030235-4c8564c7-91c0-46bc-9967-54b8d8e527bc.png)
+
 
 
 
