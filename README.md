@@ -64,6 +64,9 @@ Security, ReactJS
 **Database Table:**<br>
 ![dB](https://user-images.githubusercontent.com/60547236/196030235-4c8564c7-91c0-46bc-9967-54b8d8e527bc.png)
 
+**Postman:**<br>
+![POSTMAN](https://user-images.githubusercontent.com/60547236/196030470-316e382b-9240-4a29-b4e8-276e2f1d572a.png)
+
 
 
 
