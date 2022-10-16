@@ -16,7 +16,7 @@
 ## Demo Account
 | <img src ="https://github.com/nazligencel/java-desktop-technical-service/blob/main/images/mail.png" width ="20px" height = "20px" style="float:left" > E-Mail | <img src ="https://github.com/nazligencel/java-desktop-technical-service/blob/main/images/password.png" width ="20px" height = "20px" style="float:left" > Password | 
 | :------------: | :------------: | 
-|32bit| 123456 |
+|ayse@gmail.com| 12345 |
 
 
 ## Project Display Image!
