@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/E-Commerce-Project/E-Commerce-Project.iml" filepath="$PROJECT_DIR$/E-Commerce-Project/E-Commerce-Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/E-Commerce-Project-Spring.iml" filepath="$PROJECT_DIR$/.idea/E-Commerce-Project-Spring.iml" />
+    </modules>
+  </component>
+</project>
